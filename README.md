@@ -49,3 +49,5 @@ optional arguments:
   -w WAIT, --wait WAIT  Time in minutes to wait before assuming a client
                         is not longer watching
 ```
+
+This git was forked from [https://github.com/ben-pearce/nginx-hls-viewers](https://github.com/ben-pearce/nginx-hls-viewers).
